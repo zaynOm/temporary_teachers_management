@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:8080/PFF_2017_v3_2/nombreEvDuneSpecialite?wsdl" uri="wsdl/localhost_8080/PFF_2017_v3_2/nombreEvDuneSpecialite.wsdl"/>
+    <system systemId="http://localhost:8080/PFF_2017_v3_2/nombreEvDuneSpecialite?xsd=1" uri="wsdl/localhost_8080/PFF_2017_v3_2/nombreEvDuneSpecialite.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/PFF_2017_v3_2/nombreEvDuneSpecialite?WSDL" uri="wsdl/localhost_8080/PFF_2017_v3_2/nombreEvDuneSpecialite.wsdl"/>
+    <system systemId="http://localhost:8080/PFF_2017_v3_2/numberOfSpecialiteWS?WSDL" uri="wsdl/localhost_8080/PFF_2017_v3_2/numberOfSpecialiteWS.wsdl"/>
+    <system systemId="http://localhost:8080/PFF_2017_v3_2/numberOfSpecialiteWS?xsd=1" uri="wsdl/localhost_8080/PFF_2017_v3_2/numberOfSpecialiteWS.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/PFF_2017_v3_2/numberOfSpecialiteWS?wsdl" uri="wsdl/localhost_8080/PFF_2017_v3_2/numberOfSpecialiteWS.wsdl"/>
+    <system systemId="http://localhost:8080/numberOfSpecialiteWS?WSDL" uri="wsdl/localhost_8080/numberOfSpecialiteWS.wsdl"/>
+    <system systemId="http://localhost:8080/numberOfSpecialiteWS?xsd=1" uri="wsdl/localhost_8080/numberOfSpecialiteWS.xsd_1.xsd"/>
+</catalog>
